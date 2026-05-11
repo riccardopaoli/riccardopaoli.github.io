@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student at [CNR-ISTI](https://www.isti.cnr.it/it/)
+subtitle: Ph.D. student at <a href='https://www.isti.cnr.it/it/' target='_blank'>CNR-ISTI</a>
 
 profile:
   align: left
