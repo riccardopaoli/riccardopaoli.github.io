@@ -472,6 +472,20 @@ ninja.data = [{
           window.open("mailto:%72%69%63%63%61%72%64%6F.%70%61%6F%6C%69@%69%73%74%69.%63%6E%72.%69%74", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/riccardopaoli", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/riccardo-paoli-a26871229", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
