@@ -3,8 +3,6 @@ cv:
   label: Ph.D. student
   email: riccardo.paoli@isti.cnr.it
   location: Florence, Italy
-  image: ""
-  summary: 
   
   social_networks:
     - network: GitHub
@@ -36,13 +34,13 @@ cv:
         start_date: 2022
         end_date: 2025
 
-        - institution: University of Florence
+      - institution: University of Florence
         location: Florence, Italy
         area: Physics and Astrophysics
         studyType: MSc
         start_date: 2019
         end_date: 2022
-        
+          
 
     Publications:
       - title: MILP-SAT-GNN: Yet Another Neural SAT solver
@@ -53,8 +51,8 @@ cv:
           - Umberto Straccia
         publisher: Annalen der Physik
         releaseDate: 2026
-        url: 
         summary: We propose a novel method that enables Graph Neural Networks (GNNs) to solve SAT problems by leveraging a technique developed for applying GNNs to Mixed Integer Linear Programming (MILP). Specifically, k-CNF formulae are mapped into MILP problems, which are then encoded as weighted bipartite graphs and subsequently fed into a GNN for training and testing. We illustrate some theoretical results and conduct an experimental evaluation showing that, despite the simplicity of the neural architecture, the method achieves promising results.
+    
     Languages:
       - name: Italian
         summary: "Mothertongue"
@@ -64,5 +62,4 @@ cv:
 
     Interests:
       - name: Deep Learning, Neurosymbolic AI, General Realtivity
-        icon: fa-solid fa-tag
-        keywords: 
+
