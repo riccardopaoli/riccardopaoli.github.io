@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year student in the National Ph.D. in Artificial Intelligence for Society at the University of Pisa, conducting my research at CNR-ISTI. I hold a B.Sc. in Physics and Astrophysics and an M.Sc. in Theoretical Physics from the University of Florence.
+I am a first-year student in the **National Ph.D. in Artificial Intelligence for Society** at the University of Pisa, conducting my research at CNR-ISTI. I hold a B.Sc. in Physics and Astrophysics and an M.Sc. in **Theoretical Physics** from the University of Florence.
 
-My current research focuses on Neurosymbolic AI, aiming to combine neural architectures with logical reasoning. While my daily work revolves around machine learning, I maintain an interest in General Relativity from my previous studies.
+My current research focuses on **Neurosymbolic AI**, aiming to combine neural architectures with logical reasoning. While my daily work revolves around machine learning, I maintain an interest in General Relativity from my previous studies.
 
 I am currently based in Florence. Outside of the lab, you can find me playing tennis year-round or snowboarding in the winter.
