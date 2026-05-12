@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "A summary of my academic background and research experience. For the complete overview, [download my full CV (PDF)](/assets/pdf/curriculum.pdf).",
+          description: "A summary of my academic background and research experience. For the complete overview, download my full CV (PDF).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
