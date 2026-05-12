@@ -29,7 +29,7 @@ cv:
       - institution: University of Florence
         location: Florence, Italy
         area: Physics and Astrophysics
-        studyType: MSc
+        studyType: BSc
         start_date: 2019
         end_date: 2022
           
@@ -41,7 +41,7 @@ cv:
           - Hamza Khyari
           - Riccardo Paoli
           - Umberto Straccia
-        publisher: Annalen der Physik
+        publisher: In Proceedings of the 30th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES-26)
         releaseDate: 2026
         summary: We propose a novel method that enables Graph Neural Networks (GNNs) to solve SAT problems by leveraging a technique developed for applying GNNs to Mixed Integer Linear Programming (MILP). Specifically, k-CNF formulae are mapped into MILP problems, which are then encoded as weighted bipartite graphs and subsequently fed into a GNN for training and testing. We illustrate some theoretical results and conduct an experimental evaluation showing that, despite the simplicity of the neural architecture, the method achieves promising results.
     
