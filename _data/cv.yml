@@ -7,51 +7,74 @@ cv:
     - network: GitHub
       username: riccardopaoli
     - network: LinkedIn
-      username: riccardo paoli
+      username: riccardo-paoli-a26871229
 
   sections:
     Education:
       - institution: University of Pisa / CNR-ISTI
+        icon: fa-solid fa-building-columns
         location: Pisa, Italy
         url: https://www.unipi.it/
         area: Computer Science
         studyType: PhD
         start_date: 2025
         end_date: "present"
+        highlights:
+          - "Research Project: Neuro-symbolic reasoning and learning"
 
       - institution: University of Florence
+        icon: fa-solid fa-graduation-cap
         location: Florence, Italy
         area: Theoretical Physics
         studyType: MSc
         start_date: 2022
         end_date: 2025
+        highlights:
+          - "Thesis: Spectral Autoencoders: Systematic Analysis and Validation on Diffuse Optics Data"
 
       - institution: University of Florence
+        icon: fa-solid fa-graduation-cap
         location: Florence, Italy
         area: Physics and Astrophysics
         studyType: BSc
         start_date: 2019
         end_date: 2022
-          
+        highlights:
+          - "Thesis: Stokes' Theorem in General Relativity"
+
+    Skills:
+      - label: Programming & Tools
+        icon: fa-solid fa-code
+        details: Python, PyTorch, LaTeX, Git
+      - label: AI & Computing
+        icon: fa-solid fa-brain
+        details: Graph Neural Networks (GNN), Neurosymbolic AI, SAT Solvers, Spectral Autoencoders
 
     Publications:
       - title: "MILP-SAT-GNN: Yet Another Neural SAT solver"
+        icon: fa-solid fa-file-lines
         authors:
           - Franco Alberto Cardillo
           - Hamza Khyari
           - Riccardo Paoli
           - Umberto Straccia
-        publisher: In Proceedings of the 30th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES-26)
+        journal: Proceedings of the 30th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES-26)
         releaseDate: 2026
         summary: We propose a novel method that enables Graph Neural Networks (GNNs) to solve SAT problems by leveraging a technique developed for applying GNNs to Mixed Integer Linear Programming (MILP). Specifically, k-CNF formulae are mapped into MILP problems, which are then encoded as weighted bipartite graphs and subsequently fed into a GNN for training and testing. We illustrate some theoretical results and conduct an experimental evaluation showing that, despite the simplicity of the neural architecture, the method achieves promising results.
     
     Languages:
       - name: Italian
-        summary: "Mothertongue"
+        icon: fa-solid fa-language
+        summary: Native
 
       - name: English
-        summary: "Intermediate, level B2"
+        icon: fa-solid fa-language
+        summary: Intermediate (B2)
 
     Interests:
-      - name: Deep Learning, Neurosymbolic AI, General Realtivity
-
+      - name: Deep Learning
+        icon: fa-solid fa-robot
+      - name: Neurosymbolic AI
+        icon: fa-solid fa-network-wired
+      - name: General Relativity
+        icon: fa-solid fa-meteor
