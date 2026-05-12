@@ -1,6 +1,5 @@
 cv:
   name: Riccardo Paoli
-  label: Ph.D. student
   email: riccardo.paoli@isti.cnr.it
   location: Florence, Italy
   
@@ -10,13 +9,6 @@ cv:
     - network: LinkedIn
       username: riccardo paoli
 
-  address:
-    street: Via G. Moruzzi 1
-    city: Pisa
-    region: Tuscany
-    postalCode: 56124
-    countryCode: IT
-
   sections:
     Education:
       - institution: University of Pisa / CNR-ISTI
@@ -25,7 +17,7 @@ cv:
         area: Computer Science
         studyType: PhD
         start_date: 2025
-        end_date: ongoing
+        end_date: "present"
 
       - institution: University of Florence
         location: Florence, Italy
