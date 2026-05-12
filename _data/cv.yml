@@ -43,7 +43,7 @@ cv:
           
 
     Publications:
-      - title: MILP-SAT-GNN: Yet Another Neural SAT solver
+      - title: "MILP-SAT-GNN: Yet Another Neural SAT solver"
         authors:
           - Franco Alberto Cardillo
           - Hamza Khyari
