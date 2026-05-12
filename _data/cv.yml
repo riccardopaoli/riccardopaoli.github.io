@@ -32,6 +32,16 @@ cv:
         highlights:
           - "Thesis: Spectral Autoencoders: Systematic Analysis and Validation on Diffuse Optics Data"
 
+      - institution: École Normale Supérieure (ENS)
+        icon: fa-solid fa-earth-europe
+        location: Paris, France
+        area: Theoretical Physics
+        studyType: Erasmus+ Exchange Program
+        start_date: 2023-09
+        end_date: 2024-03
+        highlights:
+          - "Visiting student during the MSc program"
+          
       - institution: University of Florence
         icon: fa-solid fa-graduation-cap
         location: Florence, Italy
