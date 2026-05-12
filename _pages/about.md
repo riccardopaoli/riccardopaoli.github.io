@@ -29,6 +29,6 @@ latest_posts:
 
 I am a student in the 41º cycle of the **National Ph.D. in Artificial Intelligence for Society** at the [University of Pisa](https://www.unipi.it), conducting my research at [CNR-ISTI](https://www.isti.cnr.it/it/). I hold a B.Sc. in Physics and Astrophysics and an M.Sc. in **Theoretical Physics** from the University of Florence.
 
-My current research focuses on **Neurosymbolic AI**, aiming to combine neural architectures with logical reasoning. While my daily work revolves around machine learning, I maintain an interest in General Relativity from my previous studies.
+My current research focuses on [**Neurosymbolic AI**](https://en.wikipedia.org/wiki/Neuro-symbolic_AI), aiming to combine neural architectures with logical reasoning. While my daily work revolves around machine learning, I maintain an interest in General Relativity from my previous studies.
 
 I am currently based in Florence. Outside of the lab, you can find me playing tennis year-round or snowboarding in the winter.
