@@ -31,4 +31,4 @@ I am a student in the 41º cycle of the **National Ph.D. in Artificial Intellige
 
 My current research focuses on [**Neurosymbolic AI**](https://en.wikipedia.org/wiki/Neuro-symbolic_AI), aiming to combine neural architectures with logical reasoning. While my daily work revolves around machine learning, I maintain an interest in General Relativity from my previous studies.
 
-I am currently based in Florence. Outside of the lab, you can find me playing tennis year-round or snowboarding in the winter.
+I am currently based in Florence. Outside of the lab, you can find me playing tennis year-round, running or snowboarding in the winter.
