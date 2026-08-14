@@ -7,8 +7,6 @@ importance: 1
 category: work
 ---
 
-Qui puoi leggere il documento di tesi completo. 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         <!-- Questo è il blocco che visualizza il PDF -->
