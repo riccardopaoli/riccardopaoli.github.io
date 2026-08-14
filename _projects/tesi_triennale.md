@@ -1,4 +1,3 @@
-
 ---
 layout: none
 title: Tesi Triennale
