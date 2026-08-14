@@ -1,6 +1,6 @@
 
 ---
-layout: page
+layout: none
 title: Tesi Triennale
 description: Il Teorema di Stokes In Relatività Generale (Only in Italian)
 img: assets/img/teorema_stokes.png
