@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. student at <a href='https://www.isti.cnr.it/it/' target='_blank'>CNR-ISTI</a> and <a href='https://www.unipi.it' target='_blank'>University of Pisa</a>
+subtitle: Ph.D. student in Artificial Intelligence
 
 profile:
   align: left
