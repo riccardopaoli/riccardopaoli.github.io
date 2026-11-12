@@ -13,7 +13,7 @@ cv:
       - institution: University of Pisa / CNR-ISTI
         area: Artificial Intelligence
         degree: PhD
-        start_date: 2025-09
+        start_date: 2025-11
         end_date: present
         location: Pisa, Italy
         highlights:
@@ -23,7 +23,7 @@ cv:
         area: Theoretical Physics
         degree: MSc
         start_date: 2022-09
-        end_date: 2025-07
+        end_date: 2025-10
         location: Florence, Italy
         highlights:
           - "Thesis: Spectral Autoencoders: Systematic Analysis and Validation on Diffuse Optics Data"
@@ -41,7 +41,7 @@ cv:
         area: Physics and Astrophysics
         degree: BSc
         start_date: 2019-09
-        end_date: 2022-07
+        end_date: 2022-12
         location: Florence, Italy
         highlights:
           - "Thesis: Stokes' Theorem in General Relativity"
