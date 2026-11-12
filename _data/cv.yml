@@ -60,18 +60,6 @@ cv:
         icon: fa-solid fa-brain
         details: Graph Neural Networks (GNN), Neurosymbolic AI, SAT Solvers, Spectral Autoencoders
 
-    Publications:
-      - title: "MILP-SAT-GNN: Yet Another Neural SAT solver"
-        icon: fa-solid fa-file-lines
-        authors:
-          - Franco Alberto Cardillo
-          - Hamza Khyari
-          - Riccardo Paoli
-          - Umberto Straccia
-        journal: Proceedings of the 30th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES-26)
-        releaseDate: 2026
-        summary: We propose a novel method that enables Graph Neural Networks (GNNs) to solve SAT problems by leveraging a technique developed for applying GNNs to Mixed Integer Linear Programming (MILP). Specifically, k-CNF formulae are mapped into MILP problems, which are then encoded as weighted bipartite graphs and subsequently fed into a GNN for training and testing. We illustrate some theoretical results and conduct an experimental evaluation showing that, despite the simplicity of the neural architecture, the method achieves promising results.
-    
     Languages:
       - name: Italian
         icon: fa-solid fa-language
