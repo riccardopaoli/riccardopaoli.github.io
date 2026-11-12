@@ -1,7 +1,8 @@
 cv:
   name: Riccardo Paoli
-  location: Florence, Italy
   email: riccardo.paoli@isti.cnr.it
+  location: Florence, Italy
+  
   social_networks:
     - network: GitHub
       username: riccardopaoli
@@ -9,92 +10,75 @@ cv:
       username: riccardo-paoli-a26871229
 
   sections:
-    education:
+    Education:
       - institution: University of Pisa / CNR-ISTI
-        area: Artificial Intelligence
-        degree: PhD
-        start_date: 2025-11
-        end_date: present
         location: Pisa, Italy
+        area: Artificial Intelligence
+        studyType: PhD
+        start_date: 2025-11
+        end_date: "present"
         highlights:
           - "Research Project: Neuro-symbolic reasoning and learning"
 
       - institution: University of Florence
+        location: Florence, Italy
         area: Theoretical Physics
-        degree: MSc
+        studyType: MSc
         start_date: 2022-09
         end_date: 2025-10
-        location: Florence, Italy
         highlights:
           - "Thesis: Spectral Autoencoders: Systematic Analysis and Validation on Diffuse Optics Data"
 
       - institution: École Normale Supérieure (ENS)
+        location: Paris, France
         area: Theoretical Physics
-        degree: Erasmus+ Exchange Program
+        studyType: Erasmus+ Exchange Program
         start_date: 2023-09
         end_date: 2024-03
-        location: Paris, France
         highlights:
           - "Visiting student during the MSc program"
-
+          
       - institution: University of Florence
+        location: Florence, Italy
         area: Physics and Astrophysics
-        degree: BSc
+        studyType: BSc
         start_date: 2019-09
         end_date: 2022-12
-        location: Florence, Italy
         highlights:
           - "Thesis: Stokes' Theorem in General Relativity"
 
-    publications:
-      - title: "MILP-SAT-GNN: Yet Another Neural SAT solver"
-        authors:
-          - Franco Alberto Cardillo
-          - Hamza Khyari
-          - "*Riccardo Paoli*"
-          - Umberto Straccia
-        journal: "Procedia Computer Science, Vol. 292, pp. 276–285 (KES 2026)"
-        date: 2026
-        doi: 10.1016/j.procs.2026.09.104
+    Publications:
+      - name: "MILP-SAT-GNN: Yet Another Neural SAT solver"
+        publisher: "Procedia Computer Science, Vol. 292, pp. 276–285 (KES 2026)"
+        releaseDate: 2026
+        url: https://doi.org/10.1016/j.procs.2026.09.104
+        summary: "Franco Alberto Cardillo, Hamza Khyari, **Riccardo Paoli**, Umberto Straccia"
 
-      - title: "Spectral Autoencoders"
-        authors:
-          - "*Riccardo Paoli*"
-          - Lorenzo Chicchi
-          - Duccio Fanelli
-          - Lorenzo Buffoni
-        journal: "2026 IEEE Workshop on Complexity in Engineering (COMPENG), pp. 1–5"
-        date: 2026
-        doi: 10.1109/COMPENG69955.2026.11766133
+      - name: "Spectral Autoencoders"
+        publisher: "2026 IEEE Workshop on Complexity in Engineering (COMPENG), pp. 1–5"
+        releaseDate: 2026
+        url: https://doi.org/10.1109/COMPENG69955.2026.11766133
+        summary: "**Riccardo Paoli**, Lorenzo Chicchi, Duccio Fanelli, Lorenzo Buffoni"
 
-      - title: "Learning-Based Reconstruction of Optical Properties in Bilayered Media from Single-distance Time-Resolved Reflectance Measurements"
-        authors:
-          - Caterina Amendola
-          - Giulia Maffeis
-          - Lorenzo Buffoni
-          - Lorenzo Chicchi
-          - Francesco Coghi
-          - Duccio Fanelli
-          - Raffaele Marino
-          - Fabrizio Martelli
-          - "*Riccardo Paoli*"
-          - Lorenzo Pattelli
-          - Lorenzo Spinelli
-        journal: "arXiv preprint arXiv:2609.19786"
-        date: 2026
+      - name: "Learning-Based Reconstruction of Optical Properties in Bilayered Media from Single-distance Time-Resolved Reflectance Measurements"
+        publisher: "arXiv preprint arXiv:2609.19786"
+        releaseDate: 2026
         url: https://arxiv.org/abs/2609.19786
+        summary: "Caterina Amendola, Giulia Maffeis, Lorenzo Buffoni, Lorenzo Chicchi, Francesco Coghi, Duccio Fanelli, Raffaele Marino, Fabrizio Martelli, **Riccardo Paoli**, Lorenzo Pattelli, Lorenzo Spinelli"
 
-    skills:
-      - label: Programming & Tools
+    Skills:
+      - name: Programming & Tools
         details: Python, PyTorch, LaTeX, Git
-      - label: AI & Computing
+      - name: AI & Computing
         details: Graph Neural Networks (GNN), Neurosymbolic AI, SAT Solvers, Spectral Autoencoders
 
-    languages:
-      - label: Italian
-        details: Native
-      - label: English
-        details: Intermediate (B2)
+    Languages:
+      - name: Italian
+        summary: Native
+      - name: English
+        summary: Intermediate (B2)
 
-    interests:
-      - Deep Learning, Neurosymbolic AI, General Relativity
+    Interests:
+      - name: Deep Learning
+      - name: Neurosymbolic AI
+      - name: General Relativity
