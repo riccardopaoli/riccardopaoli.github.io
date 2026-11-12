@@ -53,10 +53,10 @@ cv:
           - "Thesis: Stokes' Theorem in General Relativity"
 
     Skills:
-      - label: Programming & Tools
+      - name: Programming & Tools
         icon: fa-solid fa-code
         details: Python, PyTorch, LaTeX, Git
-      - label: AI & Computing
+      - name: AI & Computing
         icon: fa-solid fa-brain
         details: Graph Neural Networks (GNN), Neurosymbolic AI, SAT Solvers, Spectral Autoencoders
 
