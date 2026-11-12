@@ -61,16 +61,16 @@ cv:
         summary: "**Riccardo Paoli**, Lorenzo Chicchi, Duccio Fanelli, Lorenzo Buffoni"
 
       - name: "Learning-Based Reconstruction of Optical Properties in Bilayered Media from Single-distance Time-Resolved Reflectance Measurements"
-        publisher: "arXiv preprint arXiv:2609.19786"
+        publisher: "arXiv preprint"
         releaseDate: 2026
         url: https://arxiv.org/abs/2609.19786
         summary: "Caterina Amendola, Giulia Maffeis, Lorenzo Buffoni, Lorenzo Chicchi, Francesco Coghi, Duccio Fanelli, Raffaele Marino, Fabrizio Martelli, **Riccardo Paoli**, Lorenzo Pattelli, Lorenzo Spinelli"
 
     Skills:
       - name: Programming & Tools
-        details: Python, PyTorch, LaTeX, Git
+        summary: Python, PyTorch, LaTeX, Git
       - name: AI & Computing
-        details: Graph Neural Networks (GNN), Neurosymbolic AI, SAT Solvers, Spectral Autoencoders
+        summary: Graph Neural Networks (GNN), Neurosymbolic AI, SAT Solvers, Spectral Autoencoders
 
     Languages:
       - name: Italian
