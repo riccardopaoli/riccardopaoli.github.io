@@ -1,8 +1,7 @@
 cv:
   name: Riccardo Paoli
-  email: riccardo.paoli@isti.cnr.it
   location: Florence, Italy
-  
+  email: riccardo.paoli@isti.cnr.it
   social_networks:
     - network: GitHub
       username: riccardopaoli
@@ -10,69 +9,92 @@ cv:
       username: riccardo-paoli-a26871229
 
   sections:
-    Education:
+    education:
       - institution: University of Pisa / CNR-ISTI
-        icon: fa-solid fa-building-columns
-        location: Pisa, Italy
-        url: https://www.unipi.it/
         area: Artificial Intelligence
-        studyType: PhD
-        start_date: 2025
-        end_date: "present"
+        degree: PhD
+        start_date: 2025-09
+        end_date: present
+        location: Pisa, Italy
         highlights:
           - "Research Project: Neuro-symbolic reasoning and learning"
 
       - institution: University of Florence
-        icon: fa-solid fa-graduation-cap
-        location: Florence, Italy
         area: Theoretical Physics
-        studyType: MSc
-        start_date: 2022
-        end_date: 2025
+        degree: MSc
+        start_date: 2022-09
+        end_date: 2025-07
+        location: Florence, Italy
         highlights:
           - "Thesis: Spectral Autoencoders: Systematic Analysis and Validation on Diffuse Optics Data"
 
       - institution: École Normale Supérieure (ENS)
-        icon: fa-solid fa-earth-europe
-        location: Paris, France
         area: Theoretical Physics
-        studyType: Erasmus+ Exchange Program
+        degree: Erasmus+ Exchange Program
         start_date: 2023-09
         end_date: 2024-03
+        location: Paris, France
         highlights:
           - "Visiting student during the MSc program"
-          
+
       - institution: University of Florence
-        icon: fa-solid fa-graduation-cap
-        location: Florence, Italy
         area: Physics and Astrophysics
-        studyType: BSc
-        start_date: 2019
-        end_date: 2022
+        degree: BSc
+        start_date: 2019-09
+        end_date: 2022-07
+        location: Florence, Italy
         highlights:
           - "Thesis: Stokes' Theorem in General Relativity"
 
-    Skills:
-      - name: Programming & Tools
-        icon: fa-solid fa-code
+    publications:
+      - title: "MILP-SAT-GNN: Yet Another Neural SAT solver"
+        authors:
+          - Franco Alberto Cardillo
+          - Hamza Khyari
+          - "*Riccardo Paoli*"
+          - Umberto Straccia
+        journal: "Procedia Computer Science, Vol. 292, pp. 276–285 (KES 2026)"
+        date: 2026
+        doi: 10.1016/j.procs.2026.09.104
+
+      - title: "Spectral Autoencoders"
+        authors:
+          - "*Riccardo Paoli*"
+          - Lorenzo Chicchi
+          - Duccio Fanelli
+          - Lorenzo Buffoni
+        journal: "2026 IEEE Workshop on Complexity in Engineering (COMPENG), pp. 1–5"
+        date: 2026
+        doi: 10.1109/COMPENG69955.2026.11766133
+
+      - title: "Learning-Based Reconstruction of Optical Properties in Bilayered Media from Single-distance Time-Resolved Reflectance Measurements"
+        authors:
+          - Caterina Amendola
+          - Giulia Maffeis
+          - Lorenzo Buffoni
+          - Lorenzo Chicchi
+          - Francesco Coghi
+          - Duccio Fanelli
+          - Raffaele Marino
+          - Fabrizio Martelli
+          - "*Riccardo Paoli*"
+          - Lorenzo Pattelli
+          - Lorenzo Spinelli
+        journal: "arXiv preprint arXiv:2609.19786"
+        date: 2026
+        url: https://arxiv.org/abs/2609.19786
+
+    skills:
+      - label: Programming & Tools
         details: Python, PyTorch, LaTeX, Git
-      - name: AI & Computing
-        icon: fa-solid fa-brain
+      - label: AI & Computing
         details: Graph Neural Networks (GNN), Neurosymbolic AI, SAT Solvers, Spectral Autoencoders
 
-    Languages:
-      - name: Italian
-        icon: fa-solid fa-language
-        summary: Native
+    languages:
+      - label: Italian
+        details: Native
+      - label: English
+        details: Intermediate (B2)
 
-      - name: English
-        icon: fa-solid fa-language
-        summary: Intermediate (B2)
-
-    Interests:
-      - name: Deep Learning
-        icon: fa-solid fa-robot
-      - name: Neurosymbolic AI
-        icon: fa-solid fa-network-wired
-      - name: General Relativity
-        icon: fa-solid fa-meteor
+    interests:
+      - Deep Learning, Neurosymbolic AI, General Relativity
